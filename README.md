@@ -1,6 +1,6 @@
 ## Record Reviews
 
-Add new reviews in the `_reviews` directory.
+Add new reviews in the [`_reviews`](https://github.com/record-review/record-review.github.io/tree/master/_reviews) directory.
 
 ### Markdown
 
