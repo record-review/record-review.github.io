@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Record Reviews
 description: Reviews of records and albums
+
+collections:
+  reviews:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: review
