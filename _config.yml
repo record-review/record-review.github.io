@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
-defaults:
-  - values:
-    author_profile: false
+title: Record Reviews
+description: Reviews of records and albums
