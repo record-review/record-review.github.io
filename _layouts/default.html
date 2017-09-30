@@ -35,6 +35,11 @@
           </ul>
         {% endif %}
         -->
+        <p>
+          {% for review in site.reviews %}
+            <a href="{{review.url}}">{{ review.title }}</a><br/>
+          {% endfor %}
+        </p>
       </header>
       <section>
 
