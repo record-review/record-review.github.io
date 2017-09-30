@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+defaults:
+  - values:
+    author_profile: false
